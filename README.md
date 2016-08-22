@@ -1,4 +1,4 @@
-#==三大引擎对比数据==
+#=三大引擎对比数据=
 
 比较数据：
 	平台：h5、安卓、ios。
@@ -17,7 +17,7 @@
 		数量：500
 	
 	
-#**==============egret================**
+#**=egret=**
 
 -[1.cartoon](https://laixiao.github.io/game-engine/egret/cartoon/index.html)
 
@@ -29,7 +29,7 @@
 
 
 
-#**==============laya================**
+#**=laya=**
 
 -[1.cartoon](https://laixiao.github.io/game-engine/laya/cartoon/bin/index.html)
 
@@ -42,7 +42,7 @@
 
 
 	
-#**==============creator================**
+#**=creator=**
 
 -[1.cartoon](https://laixiao.github.io/game-engine/creator/cartoon/build/web-desktop/index.html)
 
