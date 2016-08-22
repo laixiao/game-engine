@@ -1,0 +1,15 @@
+{
+	"resources": [
+		{
+			"name": "tinyMaggot",
+			"type": "image",
+			"url": "assets/tinyMaggot.png"
+		}
+	],
+	"groups": [
+		{
+			"name": "preload",
+			"keys": "tinyMaggot"
+		}
+	]
+}

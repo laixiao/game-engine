@@ -1,0 +1,26 @@
+{
+	"native": {
+		"path_ignore": [],
+		"android_path": "D:/laixiao/Soft/adt-bundle-windows-x86_64-20140702/legend"
+	},
+	"publish": {
+		"web": 0,
+		"native": 1,
+		"path": "bin-release"
+	},
+	"egret_version": "3.1.6",
+	"modules": [
+		{
+			"name": "egret"
+		},
+		{
+			"name": "game"
+		},
+		{
+			"name": "tween"
+		},
+		{
+			"name": "res"
+		}
+	]
+}

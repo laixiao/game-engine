@@ -1,0 +1,110 @@
+{
+	"resources": [
+		{
+			"name": "bg",
+			"type": "image",
+			"url": "assets/map.jpg"
+		},
+		{
+			"name": "bitmap2_1_png",
+			"type": "image",
+			"url": "assets/bitmap2/1.png"
+		},
+		{
+			"name": "bitmap2_2_png",
+			"type": "image",
+			"url": "assets/bitmap2/2.png"
+		},
+		{
+			"name": "bitmap2_3_png",
+			"type": "image",
+			"url": "assets/bitmap2/3.png"
+		},
+		{
+			"name": "bitmap2_4_png",
+			"type": "image",
+			"url": "assets/bitmap2/4.png"
+		},
+		{
+			"name": "bitmap2_5_png",
+			"type": "image",
+			"url": "assets/bitmap2/5.png"
+		},
+		{
+			"name": "bitmap2_6_png",
+			"type": "image",
+			"url": "assets/bitmap2/6.png"
+		},
+		{
+			"name": "bitmap3_1_png",
+			"type": "image",
+			"url": "assets/bitmap3/1.png"
+		},
+		{
+			"name": "bitmap3_2_png",
+			"type": "image",
+			"url": "assets/bitmap3/2.png"
+		},
+		{
+			"name": "bitmap3_3_png",
+			"type": "image",
+			"url": "assets/bitmap3/3.png"
+		},
+		{
+			"name": "bitmap3_4_png",
+			"type": "image",
+			"url": "assets/bitmap3/4.png"
+		},
+		{
+			"name": "bitmap3_5_png",
+			"type": "image",
+			"url": "assets/bitmap3/5.png"
+		},
+		{
+			"name": "bitmap3_6_png",
+			"type": "image",
+			"url": "assets/bitmap3/6.png"
+		},
+		{
+			"name": "bitmap4_1_png",
+			"type": "image",
+			"url": "assets/bitmap4/1.png"
+		},
+		{
+			"name": "bitmap4_2_png",
+			"type": "image",
+			"url": "assets/bitmap4/2.png"
+		},
+		{
+			"name": "bitmap4_3_png",
+			"type": "image",
+			"url": "assets/bitmap4/3.png"
+		},
+		{
+			"name": "bitmap4_4_png",
+			"type": "image",
+			"url": "assets/bitmap4/4.png"
+		},
+		{
+			"name": "bitmap4_5_png",
+			"type": "image",
+			"url": "assets/bitmap4/5.png"
+		},
+		{
+			"name": "bitmap4_6_png",
+			"type": "image",
+			"url": "assets/bitmap4/6.png"
+		},
+		{
+			"name": "background_jpg",
+			"type": "image",
+			"url": "assets/background.jpg"
+		}
+	],
+	"groups": [
+		{
+			"name": "preload",
+			"keys": "bg,bitmap2_1_png,bitmap2_2_png,bitmap2_3_png,bitmap2_4_png,bitmap2_5_png,bitmap2_6_png,bitmap3_1_png,bitmap3_2_png,bitmap3_3_png,bitmap3_4_png,bitmap3_5_png,bitmap3_6_png,bitmap4_1_png,bitmap4_2_png,bitmap4_3_png,bitmap4_4_png,bitmap4_5_png,bitmap4_6_png,background_jpg"
+		}
+	]
+}

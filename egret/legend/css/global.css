@@ -1,0 +1,23 @@
+.unselectable {
+    -moz-user-select: -moz-none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    /*
+      Introduced in IE 10.
+      See http://ie.microsoft.com/testdrive/HTML5/msUserSelect/
+    */
+    -ms-user-select: none;
+    user-select: none;
+}
+.item {margin:0 2px 2px 0}
+.itemdown {margin:0 0 2px 0}
+.clum {margin-top:2px;border-top:1px solid #d9d9d9;padding: 2px 2px 2px 2px; }
+.reset{margin:10px 0 0 70px;}
+
+.fpsoutput{margin:-1px -1px 0 -1px;border:1px solid #d9d9d9;border-radius:3px;width:196px;height: 40px;line-height: 12px;background-color: #f4f4f4;padding: 2px 2px 2px 2px;border-bottom:1px solid #d9d9d9}
+.btnBlue {padding: 4px 6px 4px 6px;background-color: #2db7f5;border: 0px;border-radius:3px;font-size: 12px;color: #fff; line-height: 100%}
+.btnBlue:hover{background-color: #64ccfb;}
+.btnBlue:focus {outline: none;}
+.btnGreen {padding: 4px 6px 4px 6px;background-color: #1ec82e;border: 0px;border-radius:3px;font-size: 12px;color: #fff;line-height: 100%}
+.btnGreen:hover{background-color: #34ee46;}
+.btnGreen:focus {outline: none;}
