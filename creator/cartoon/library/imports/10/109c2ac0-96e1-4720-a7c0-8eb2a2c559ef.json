@@ -1,0 +1,23 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "cartoonPlist.plist",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_spriteFrames": {
+    "cartoon1": {
+      "__uuid__": "9e2cd187-ece8-4924-be81-76302a8bc87e"
+    },
+    "cartoon2": {
+      "__uuid__": "21f1879f-c243-43bd-8cd2-35216738ce87"
+    },
+    "cartoon3": {
+      "__uuid__": "8246feda-fb08-4899-b000-5a7407786334"
+    },
+    "cartoon4": {
+      "__uuid__": "2f448e07-5c19-47f1-89b2-5a16c0435738"
+    },
+    "cartoon5": {
+      "__uuid__": "558d7a52-0c1b-45a1-86b4-c3249363adcb"
+    }
+  }
+}

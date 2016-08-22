@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cartoon4",
+    "texture": "1a994d53-9937-457c-9bbf-e6483d836f1f",
+    "atlas": "109c2ac0-96e1-4720-a7c0-8eb2a2c559ef",
+    "rect": [
+      100,
+      2,
+      93,
+      100
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      93,
+      100
+    ]
+  }
+}

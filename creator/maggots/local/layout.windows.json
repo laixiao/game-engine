@@ -1,0 +1,81 @@
+{
+  "version": "1.2.1-beta.3",
+  "windows": {
+    "main": {
+      "x": 722,
+      "y": 64,
+      "width": 1136,
+      "height": 935,
+      "layout": {
+        "docks": [
+          {
+            "docks": [
+              {
+                "active": 0,
+                "height": 402,
+                "panels": [
+                  "hierarchy",
+                  "node-library"
+                ],
+                "type": "panel",
+                "width": 220
+              },
+              {
+                "active": 0,
+                "height": 402,
+                "panels": [
+                  "assets"
+                ],
+                "type": "panel",
+                "width": 220
+              }
+            ],
+            "height": 807,
+            "row": false,
+            "type": "dock",
+            "width": 220
+          },
+          {
+            "docks": [
+              {
+                "active": 0,
+                "height": 582,
+                "panels": [
+                  "scene"
+                ],
+                "type": "panel",
+                "width": 558
+              },
+              {
+                "active": 0,
+                "height": 222,
+                "panels": [
+                  "console",
+                  "timeline"
+                ],
+                "type": "panel",
+                "width": 558
+              }
+            ],
+            "height": 807,
+            "row": false,
+            "type": "dock",
+            "width": 558
+          },
+          {
+            "active": 0,
+            "height": 807,
+            "panels": [
+              "inspector"
+            ],
+            "type": "panel",
+            "width": 330
+          }
+        ],
+        "no-collapse": true,
+        "row": true,
+        "type": "dock"
+      }
+    }
+  }
+}

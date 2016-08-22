@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "sources": [
+    "unknown"
+  ],
+  "names": [],
+  "mappings": "AAAA,EAAE,CAAC,KAAK,CAAC;AACL,eAAS,EAAE,CAAC,SAAS;;AAErB,cAAU,EAAE;;;;;;;;;;KAUX;;;AAGD,UAAM,EAAE,kBAAY;AAChB,YAAI,UAAU,GAAG,EAAE,CAAC,MAAM,CAAC,CAAC,EAAC,EAAE,CAAC,CAAC,CAAC,GAAG,EAAC,CAAC,CAAC,CAAC,CAAC;AAC1C,YAAI,YAAY,GAAG,EAAE,CAAC,QAAQ,CAAC,CAAC,EAAC,GAAG,CAAC,CAAC;AACtC,YAAI,WAAW,GAAG,EAAE,CAAC,KAAK,CAAC,UAAU,EAAC,YAAY,CAAC,CAAC;;AAEpD,YAAI,CAAC,IAAI,CAAC,SAAS,CAAC,EAAE,CAAC,aAAa,CAAC,WAAW,CAAC,CAAC,CAAC;KACtD;AACD,UAAM,EAAE,gBAAU,EAAE,EAAE;AAClB,YAAG,IAAI,CAAC,IAAI,CAAC,CAAC,GAAG,GAAG,EAAC;AACjB,gBAAI,CAAC,IAAI,CAAC,CAAC,GAAG,CAAC,GAAG,CAAC;;SAEtB;KACJ;CACJ,CAAC,CAAC",
+  "file": "unknown",
+  "sourcesContent": [
+    "cc.Class({\r\n    extends: cc.Component,\r\n\r\n    properties: {\r\n        // foo: {\r\n        //    default: null,\r\n        //    url: cc.Texture2D,  // optional, default is typeof default\r\n        //    serializable: true, // optional, default is true\r\n        //    visible: true,      // optional, default is true\r\n        //    displayName: 'Foo', // optional\r\n        //    readonly: false,    // optional, default is false\r\n        // },\r\n        // ...\r\n    },\r\n\r\n    // use this for initialization\r\n    onLoad: function () {\r\n        var moveAction = cc.moveBy(1,cc.p(200,0));\r\n        var rotateAction = cc.rotateBy(1,200);\r\n        var spawnAction = cc.spawn(moveAction,rotateAction);\r\n\r\n        this.node.runAction(cc.repeatForever(spawnAction));\r\n    },\r\n    update: function (dt) {\r\n        if(this.node.x > 270){\r\n            this.node.x = -270;\r\n            //this.node.destroy();\r\n        }\r\n    },\r\n});\r\n"
+  ]
+}

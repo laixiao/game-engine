@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "sources": [
+    "unknown"
+  ],
+  "names": [],
+  "mappings": "AAAA,EAAE,CAAC,KAAK,CAAC;AACL,eAAS,EAAE,CAAC,SAAS;;AAErB,cAAU,EAAE;;;;;;;;;;;KAWX;;;AAGD,UAAM,EAAE,kBAAY;AAChB,YAAI,CAAC,SAAS,GAAG,IAAI,CAAC,MAAM,EAAE,GAAC,CAAC,GAAC,CAAC,CAAC;KACtC;AACD,UAAM,EAAE,gBAAU,EAAE,EAAE;AAClB,YAAI,CAAC,IAAI,CAAC,CAAC,IAAG,IAAI,CAAC,SAAS,CAAC;AACzB,YAAG,IAAI,CAAC,IAAI,CAAC,CAAC,GAAE,GAAG,EAAC;AAChB,gBAAI,CAAC,IAAI,CAAC,CAAC,GAAG,CAAC,GAAG,CAAC;SACtB;KACR;CACJ,CAAC,CAAC",
+  "file": "unknown",
+  "sourcesContent": [
+    "cc.Class({\r\n    extends: cc.Component,\r\n\r\n    properties: {\r\n        // foo: {\r\n        //    default: null,      // The default value will be used only when the component attaching\r\n        //                           to a node for the first time\r\n        //    url: cc.Texture2D,  // optional, default is typeof default\r\n        //    serializable: true, // optional, default is true\r\n        //    visible: true,      // optional, default is true\r\n        //    displayName: 'Foo', // optional\r\n        //    readonly: false,    // optional, default is false\r\n        // },\r\n        // ...\r\n    },\r\n\r\n    // use this for initialization\r\n    onLoad: function () {\r\n        this.moveSpeed = Math.random()*3+1;\r\n    },\r\n    update: function (dt) {\r\n        this.node.x +=this.moveSpeed;\r\n            if(this.node.x >680){\r\n                this.node.x = -680;\r\n            }\r\n    },\r\n});\r\n"
+  ]
+}

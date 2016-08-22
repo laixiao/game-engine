@@ -1,0 +1,57 @@
+2016-08-22T05:28:27.016Z - normal: Load ~/.CocosCreator/settings.json
+2016-08-22T05:28:27.016Z - normal: checking language setting...
+2016-08-22T05:28:27.016Z - normal: Language: zh
+2016-08-22T05:28:28.125Z - success: protocol editor-framework registered
+2016-08-22T05:28:28.125Z - success: protocol app registered
+2016-08-22T05:28:28.125Z - success: protocol packages registered
+2016-08-22T05:28:28.125Z - success: protocol theme registered
+2016-08-22T05:28:28.125Z - success: protocol unpack registerred
+2016-08-22T05:28:28.188Z - normal: connected!
+2016-08-22T05:28:28.188Z - normal: Check project C:\Users\egret\Desktop\analyze\git\game-engine\creator\maggots
+2016-08-22T05:28:28.188Z - normal: Initializing Cocos Creator Editor
+2016-08-22T05:28:28.531Z - normal: Initializing Cocos2d
+2016-08-22T05:28:28.641Z - normal: Initializing Asset Database
+2016-08-22T05:28:28.656Z - success: protocol uuid registerred
+2016-08-22T05:28:28.656Z - success: protocol db registerred
+2016-08-22T05:28:28.656Z - success: protocol thumbnail registerred
+2016-08-22T05:28:28.656Z - normal: Loading editor/builtin packages
+2016-08-22T05:28:28.750Z - success: assets loaded
+2016-08-22T05:28:28.750Z - success: builder loaded
+2016-08-22T05:28:28.750Z - success: hierarchy loaded
+2016-08-22T05:28:28.766Z - success: inspector loaded
+2016-08-22T05:28:28.766Z - success: keystore loaded
+2016-08-22T05:28:28.766Z - success: node-library loaded
+2016-08-22T05:28:28.766Z - success: preferences loaded
+2016-08-22T05:28:28.781Z - success: project-importer loaded
+2016-08-22T05:28:28.781Z - success: project-settings loaded
+2016-08-22T05:28:28.781Z - success: ui-kit loaded
+2016-08-22T05:28:28.781Z - success: ui-grid loaded
+2016-08-22T05:28:28.781Z - success: scene loaded
+2016-08-22T05:28:28.781Z - success: sprite-editor loaded
+2016-08-22T05:28:28.781Z - success: timeline loaded
+2016-08-22T05:28:28.781Z - normal: Loading builtin packages
+2016-08-22T05:28:28.781Z - success: asset-db-debugger loaded
+2016-08-22T05:28:28.781Z - success: cocos-package loaded
+2016-08-22T05:28:28.797Z - success: code-editor loaded
+2016-08-22T05:28:28.797Z - success: color-picker loaded
+2016-08-22T05:28:28.797Z - success: console loaded
+2016-08-22T05:28:28.797Z - success: package-manager loaded
+2016-08-22T05:28:28.797Z - success: tester loaded
+2016-08-22T05:28:28.797Z - success: ui-kit-preview-extra loaded
+2016-08-22T05:28:28.797Z - success: ui-kit-preview loaded
+2016-08-22T05:28:28.797Z - success: ui-tree loaded
+2016-08-22T05:28:28.828Z - normal: Initializing project C:\Users\egret\Desktop\analyze\git\game-engine\creator\maggots
+2016-08-22T05:28:28.828Z - normal: Loading packages
+2016-08-22T05:28:28.828Z - normal: Run Application
+2016-08-22T05:28:29.406Z - success: preview server running at http://localhost:7456
+2016-08-22T05:28:33.061Z - normal: 1.2.1-beta.3
+2016-08-22T05:29:01.424Z - normal: Compiled successfully
+2016-08-22T05:29:02.933Z - normal: 1.2.1-beta.3
+2016-08-22T05:29:03.352Z - normal: Built to "C:\Users\egret\Desktop\analyze\git\game-engine\creator\maggots\build" successfully
+2016-08-22T05:29:07.992Z - normal: Compiled successfully
+2016-08-22T05:29:09.324Z - normal: 1.2.1-beta.3
+2016-08-22T05:29:09.618Z - normal: Built to "C:\Users\egret\Desktop\analyze\git\game-engine\creator\maggots\build" successfully
+2016-08-22T05:29:34.603Z - normal: Compiled successfully
+2016-08-22T05:29:35.910Z - normal: 1.2.1-beta.3
+2016-08-22T05:29:36.121Z - normal: Built to "C:\Users\egret\Desktop\analyze\git\game-engine\creator\maggots\build" successfully
+2016-08-22T05:30:01.240Z - info: shutdown preview server

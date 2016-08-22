@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "yd-6_05",
+    "texture": "5ce5627f-cf32-437c-ae84-a6428026c23a",
+    "atlas": "",
+    "rect": [
+      12,
+      16,
+      65,
+      79
+    ],
+    "offset": [
+      -3.5,
+      -7.5
+    ],
+    "originalSize": [
+      96,
+      96
+    ]
+  }
+}

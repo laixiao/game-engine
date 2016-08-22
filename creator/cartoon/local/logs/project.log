@@ -1,0 +1,53 @@
+2016-08-22T05:27:18.282Z - normal: Load ~/.CocosCreator/settings.json
+2016-08-22T05:27:18.282Z - normal: checking language setting...
+2016-08-22T05:27:18.282Z - normal: Language: zh
+2016-08-22T05:27:19.394Z - success: protocol editor-framework registered
+2016-08-22T05:27:19.394Z - success: protocol app registered
+2016-08-22T05:27:19.410Z - success: protocol packages registered
+2016-08-22T05:27:19.410Z - success: protocol theme registered
+2016-08-22T05:27:19.410Z - success: protocol unpack registerred
+2016-08-22T05:27:19.457Z - normal: connected!
+2016-08-22T05:27:19.473Z - normal: Check project C:\Users\egret\Desktop\analyze\git\game-engine\creator\cartoon
+2016-08-22T05:27:19.473Z - normal: Initializing Cocos Creator Editor
+2016-08-22T05:27:19.785Z - normal: Initializing Cocos2d
+2016-08-22T05:27:19.910Z - normal: Initializing Asset Database
+2016-08-22T05:27:19.910Z - success: protocol uuid registerred
+2016-08-22T05:27:19.910Z - success: protocol db registerred
+2016-08-22T05:27:19.910Z - success: protocol thumbnail registerred
+2016-08-22T05:27:19.910Z - normal: Loading editor/builtin packages
+2016-08-22T05:27:20.004Z - success: assets loaded
+2016-08-22T05:27:20.004Z - success: builder loaded
+2016-08-22T05:27:20.019Z - success: hierarchy loaded
+2016-08-22T05:27:20.019Z - success: inspector loaded
+2016-08-22T05:27:20.019Z - success: keystore loaded
+2016-08-22T05:27:20.019Z - success: node-library loaded
+2016-08-22T05:27:20.019Z - success: preferences loaded
+2016-08-22T05:27:20.035Z - success: project-importer loaded
+2016-08-22T05:27:20.035Z - success: project-settings loaded
+2016-08-22T05:27:20.035Z - success: ui-kit loaded
+2016-08-22T05:27:20.035Z - success: ui-grid loaded
+2016-08-22T05:27:20.035Z - success: scene loaded
+2016-08-22T05:27:20.035Z - success: sprite-editor loaded
+2016-08-22T05:27:20.035Z - success: timeline loaded
+2016-08-22T05:27:20.035Z - normal: Loading builtin packages
+2016-08-22T05:27:20.035Z - success: asset-db-debugger loaded
+2016-08-22T05:27:20.051Z - success: cocos-package loaded
+2016-08-22T05:27:20.051Z - success: code-editor loaded
+2016-08-22T05:27:20.051Z - success: color-picker loaded
+2016-08-22T05:27:20.051Z - success: console loaded
+2016-08-22T05:27:20.051Z - success: package-manager loaded
+2016-08-22T05:27:20.051Z - success: tester loaded
+2016-08-22T05:27:20.051Z - success: ui-kit-preview-extra loaded
+2016-08-22T05:27:20.051Z - success: ui-kit-preview loaded
+2016-08-22T05:27:20.051Z - success: ui-tree loaded
+2016-08-22T05:27:20.082Z - normal: Initializing project C:\Users\egret\Desktop\analyze\git\game-engine\creator\cartoon
+2016-08-22T05:27:20.082Z - normal: Loading packages
+2016-08-22T05:27:20.082Z - normal: Run Application
+2016-08-22T05:27:20.582Z - success: preview server running at http://localhost:7456
+2016-08-22T05:27:23.572Z - normal: 1.2.1-beta.3
+2016-08-22T05:27:48.521Z - normal: Compiled successfully
+2016-08-22T05:27:50.013Z - normal: 1.2.1-beta.3
+2016-08-22T05:27:50.250Z - normal: Built to "C:\Users\egret\Desktop\analyze\git\game-engine\creator\cartoon\build" successfully
+2016-08-22T05:28:09.228Z - normal: Compiled successfully
+2016-08-22T05:28:10.556Z - normal: 1.2.1-beta.3
+2016-08-22T05:28:10.784Z - normal: Built to "C:\Users\egret\Desktop\analyze\git\game-engine\creator\cartoon\build" successfully

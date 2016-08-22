@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "wyd-1_03",
+    "texture": "43c5cb9e-1732-46e8-b453-6c530e37d423",
+    "atlas": "",
+    "rect": [
+      15,
+      23,
+      71,
+      72
+    ],
+    "offset": [
+      2.5,
+      -11
+    ],
+    "originalSize": [
+      96,
+      96
+    ]
+  }
+}
