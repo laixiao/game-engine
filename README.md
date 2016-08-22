@@ -1,23 +1,29 @@
-#=三大引擎对比数据=
+#=H5游戏引擎性能对比=
 
-比较数据：
-	平台：h5、安卓、ios。
+	"实践是检验真理的唯一标准"
+前言：
+	-感觉现在的游戏引擎都在说自家的是业界第一，然而却没有确切的证据证明自己，为了得到
+一个有效的真实数据，我特意做了一个性能对比。主要是针对国内市场上主流的H5游戏引擎，首先，
+能入我法眼的无非就是[cocos creator](http://www.cocos.com/download/creator/)和[egret](http://developer.egret.com/cn/)，这两家游戏引擎，在技术、文档、服务等多方面都是比较成
+熟的，[laya](http://ldc.layabox.com/)在H5平台的性能也表现得非常出色，但是感觉在某些方面还不太成熟，我暂且也把它拿
+来对比一下。lufylegend等其它引擎我就不考虑了，至于为什么我就不多说了，可能是我要求比较
+高吧-_-!。
+
+
+对比平台：
+	-h5、安卓、ios。
 	
-	1.maggots:
-		旋转和位移动画
-		sprite数量：5000
-		渲染方式：canvas/webgl
-		
-	2.cartoon:
-		数量：100/1列	5列共500
-		分辨率：浏览器的宽高
-		
-	3.legend：
-		分辨率：1280,900
-		数量：500
+对比demo :
+	-类似cartoon、legend、maggots等例子的性能测试。
+	
+
+	
+	
 	
 	
 #**=egret=**
+
+H5平台：
 
 -[1.cartoon](https://laixiao.github.io/game-engine/egret/cartoon/index.html)
 
@@ -25,11 +31,15 @@
 
 -[3.maggots](https://laixiao.github.io/game-engine/egret/maggots/index.html)
 
+Android平台：
 
+IOS平台：
 
 
 
 #**=laya=**
+
+H5平台：
 
 -[1.cartoon](https://laixiao.github.io/game-engine/laya/cartoon/bin/index.html)
 
@@ -37,12 +47,14 @@
 
 -[3.maggots](https://laixiao.github.io/game-engine/laya/maggots/bin/index.html)
 
+Android平台：
 
-
-
+IOS平台：
 
 	
 #**=creator=**
+
+H5平台：
 
 -[1.cartoon](https://laixiao.github.io/game-engine/creator/cartoon/build/web-desktop/index.html)
 
@@ -50,19 +62,35 @@
 
 -[3.maggots](https://laixiao.github.io/game-engine/creator/maggots/build/web-desktop/index.html)
 
-弧度 = 2*PI/360*角度
+Android平台：
 
+	
+IOS平台：
+	
+	
+	
+	
+	
+	
+	
+	
+其它：
 
-cocos creator:
+creator注释：
+
+H5：
 	顶点数，帧速，帧率  （相同的sprite有可能会被batch；相同的会批渲染）
-
-	Android原生调试：
+	
+Android原生调试：
 		GL verts:3030	
 		GL calls:7		帧率
 		9.9/0.134		渲染耗时
 
+	
+	
 
-egret:
+
+
 
 
 
