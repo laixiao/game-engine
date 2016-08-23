@@ -15,19 +15,7 @@ cc.Class({
         // this.node.width = cc.visibleRect.width;
         // this.node.height = cc.visibleRect.height;
         
-
-        //通过位置和宽高定义的 2D 矩形。
-        this.padding = 100;
-        //this.Rectangle = new cc.rect(this.node.width + this.padding)
-        
-        this.maggots = [];
-        this.maggotAmount = 5000;
-        for (var i = 0; i < this.maggotAmount; i++) {
-            this.spawnOneMaggot();
-        }
-
-
-        
+     
         // this.moveSpeed = 0.5;
         // this.schedule(function(){
         //     for (var p = 0; p < self.maggots.length; p++) {
@@ -76,6 +64,17 @@ cc.Class({
 
 
 
+    },
+    start:function(){
+        //通过位置和宽高定义的 2D 矩形。
+        this.padding = 100;
+        //this.Rectangle = new cc.rect(this.node.width + this.padding)
+        
+        this.maggots = [];
+        this.maggotAmount = 5000;
+        for (var i = 0; i < this.maggotAmount; i++) {
+            this.spawnOneMaggot();
+        }
     },
     // called every frame
     update: function (dt) {

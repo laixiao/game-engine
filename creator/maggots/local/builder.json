@@ -6,7 +6,7 @@
   "keystoreAliasPassword": "",
   "keystorePassword": "",
   "keystorePath": "",
-  "platform": "android",
+  "platform": "web-desktop",
   "previewHeight": "720",
   "previewWidth": "1280",
   "sourceMaps": false,
