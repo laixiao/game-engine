@@ -2,8 +2,8 @@
   "version": "1.2.1-beta.3",
   "windows": {
     "main": {
-      "x": 747,
-      "y": 52,
+      "x": 351,
+      "y": 22,
       "width": 1136,
       "height": 935,
       "layout": {

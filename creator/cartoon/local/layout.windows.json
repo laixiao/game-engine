@@ -2,8 +2,8 @@
   "version": "1.2.1-beta.3",
   "windows": {
     "main": {
-      "x": 295,
-      "y": 123,
+      "x": 585,
+      "y": 189,
       "width": 1272,
       "height": 822,
       "layout": {
@@ -18,7 +18,7 @@
                   "node-library"
                 ],
                 "type": "panel",
-                "width": 243
+                "width": 200
               },
               {
                 "active": 0,
@@ -27,13 +27,13 @@
                   "assets"
                 ],
                 "type": "panel",
-                "width": 243
+                "width": 200
               }
             ],
             "height": 694,
             "row": false,
             "type": "dock",
-            "width": 243
+            "width": 200
           },
           {
             "docks": [
@@ -44,7 +44,7 @@
                   "scene"
                 ],
                 "type": "panel",
-                "width": 391
+                "width": 744
               },
               {
                 "active": 0,
@@ -54,13 +54,13 @@
                   "timeline"
                 ],
                 "type": "panel",
-                "width": 391
+                "width": 744
               }
             ],
             "height": 694,
             "row": false,
             "type": "dock",
-            "width": 391
+            "width": 744
           },
           {
             "active": 0,
@@ -69,7 +69,7 @@
               "inspector"
             ],
             "type": "panel",
-            "width": 610
+            "width": 300
           }
         ],
         "no-collapse": true,

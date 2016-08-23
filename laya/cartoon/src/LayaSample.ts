@@ -18,7 +18,7 @@ class GameMain{
     {
         Laya.init(Browser.width, Browser.height, WebGL);
             Laya.stage.bgColor = "#232628";
-            Stat.show();
+            Stat.show(100,100);
             Laya.loader.load("res/cartoonCharactors.json", Handler.create(this, this.createCharacters), null, Loader.ATLAS);
     }
 

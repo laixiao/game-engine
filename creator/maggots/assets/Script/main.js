@@ -15,6 +15,7 @@ cc.Class({
         // this.node.width = cc.visibleRect.width;
         // this.node.height = cc.visibleRect.height;
         
+        
      
         // this.moveSpeed = 0.5;
         // this.schedule(function(){

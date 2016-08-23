@@ -57,11 +57,19 @@ IOS平台：
 
 H5平台：
 
--[1.cartoon](https://laixiao.github.io/game-engine/creator/cartoon/build/web-desktop/index.html)
+-[1.cartoon桌面版](https://laixiao.github.io/game-engine/creator/cartoon/build/web-desktop/index.html)
 
--[2.legend](https://laixiao.github.io/game-engine/creator/legend2/build/web-desktop/index.html)
+-[2.legend桌面版](https://laixiao.github.io/game-engine/creator/legend2/build/web-desktop/index.html)
 
--[3.maggots](https://laixiao.github.io/game-engine/creator/maggots/build/web-desktop/index.html)
+-[3.maggots桌面版](https://laixiao.github.io/game-engine/creator/maggots/build/web-desktop/index.html)
+
+
+-[1.cartoon移动版](https://laixiao.github.io/game-engine/creator/cartoon/build/web-mobile/index.html)
+
+-[2.legend移动版](https://laixiao.github.io/game-engine/creator/legend2/build/web-mobile/index.html)
+
+-[3.maggots移动版](https://laixiao.github.io/game-engine/creator/maggots/build/web-mobile/index.html)
+
 
 Android平台：
 

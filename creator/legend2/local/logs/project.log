@@ -1,48 +1,48 @@
-2016-08-23T05:18:53.809Z - normal: Load ~/.CocosCreator/settings.json
-2016-08-23T05:18:53.813Z - normal: checking language setting...
-2016-08-23T05:18:53.813Z - normal: Language: zh
-2016-08-23T05:18:54.892Z - success: protocol editor-framework registered
-2016-08-23T05:18:54.892Z - success: protocol app registered
-2016-08-23T05:18:54.892Z - success: protocol packages registered
-2016-08-23T05:18:54.892Z - success: protocol theme registered
-2016-08-23T05:18:54.892Z - success: protocol unpack registerred
-2016-08-23T05:18:54.957Z - normal: connected!
-2016-08-23T05:18:54.959Z - normal: Check project C:\Users\egret\Documents\GitHub\game-engine\creator\legend2
-2016-08-23T05:18:54.961Z - normal: Initializing Cocos Creator Editor
-2016-08-23T05:18:55.280Z - normal: Initializing Cocos2d
-2016-08-23T05:18:55.412Z - normal: Initializing Asset Database
-2016-08-23T05:18:55.427Z - success: protocol uuid registerred
-2016-08-23T05:18:55.427Z - success: protocol db registerred
-2016-08-23T05:18:55.427Z - success: protocol thumbnail registerred
-2016-08-23T05:18:55.427Z - normal: Loading editor/builtin packages
-2016-08-23T05:18:55.524Z - success: assets loaded
-2016-08-23T05:18:55.527Z - success: builder loaded
-2016-08-23T05:18:55.531Z - success: hierarchy loaded
-2016-08-23T05:18:55.533Z - success: inspector loaded
-2016-08-23T05:18:55.534Z - success: keystore loaded
-2016-08-23T05:18:55.536Z - success: node-library loaded
-2016-08-23T05:18:55.538Z - success: preferences loaded
-2016-08-23T05:18:55.547Z - success: project-importer loaded
-2016-08-23T05:18:55.548Z - success: project-settings loaded
-2016-08-23T05:18:55.550Z - success: ui-kit loaded
-2016-08-23T05:18:55.551Z - success: ui-grid loaded
-2016-08-23T05:18:55.554Z - success: scene loaded
-2016-08-23T05:18:55.555Z - success: sprite-editor loaded
-2016-08-23T05:18:55.559Z - success: timeline loaded
-2016-08-23T05:18:55.559Z - normal: Loading builtin packages
-2016-08-23T05:18:55.562Z - success: asset-db-debugger loaded
-2016-08-23T05:18:55.563Z - success: cocos-package loaded
-2016-08-23T05:18:55.564Z - success: code-editor loaded
-2016-08-23T05:18:55.565Z - success: color-picker loaded
-2016-08-23T05:18:55.567Z - success: console loaded
-2016-08-23T05:18:55.568Z - success: package-manager loaded
-2016-08-23T05:18:55.570Z - success: tester loaded
-2016-08-23T05:18:55.571Z - success: ui-kit-preview-extra loaded
-2016-08-23T05:18:55.573Z - success: ui-kit-preview loaded
-2016-08-23T05:18:55.574Z - success: ui-tree loaded
-2016-08-23T05:18:55.597Z - normal: Initializing project C:\Users\egret\Documents\GitHub\game-engine\creator\legend2
-2016-08-23T05:18:55.600Z - normal: Loading packages
-2016-08-23T05:18:55.604Z - normal: Run Application
-2016-08-23T05:18:56.161Z - success: preview server running at http://localhost:7456
-2016-08-23T05:18:59.241Z - normal: 1.2.1-beta.3
-2016-08-23T05:19:26.573Z - info: shutdown preview server
+2016-08-23T08:28:13.623Z - normal: Load ~/.CocosCreator/settings.json
+2016-08-23T08:28:13.628Z - normal: checking language setting...
+2016-08-23T08:28:13.628Z - normal: Language: zh
+2016-08-23T08:28:14.730Z - success: protocol editor-framework registered
+2016-08-23T08:28:14.730Z - success: protocol app registered
+2016-08-23T08:28:14.730Z - success: protocol packages registered
+2016-08-23T08:28:14.730Z - success: protocol theme registered
+2016-08-23T08:28:14.731Z - success: protocol unpack registerred
+2016-08-23T08:28:14.822Z - normal: connected!
+2016-08-23T08:28:14.824Z - normal: Check project C:\Users\egret\Documents\GitHub\game-engine\creator\legend2
+2016-08-23T08:28:14.827Z - normal: Initializing Cocos Creator Editor
+2016-08-23T08:28:15.135Z - normal: Initializing Cocos2d
+2016-08-23T08:28:15.276Z - normal: Initializing Asset Database
+2016-08-23T08:28:15.291Z - success: protocol uuid registerred
+2016-08-23T08:28:15.291Z - success: protocol db registerred
+2016-08-23T08:28:15.291Z - success: protocol thumbnail registerred
+2016-08-23T08:28:15.291Z - normal: Loading editor/builtin packages
+2016-08-23T08:28:15.394Z - success: assets loaded
+2016-08-23T08:28:15.397Z - success: builder loaded
+2016-08-23T08:28:15.399Z - success: hierarchy loaded
+2016-08-23T08:28:15.403Z - success: inspector loaded
+2016-08-23T08:28:15.405Z - success: keystore loaded
+2016-08-23T08:28:15.408Z - success: node-library loaded
+2016-08-23T08:28:15.410Z - success: preferences loaded
+2016-08-23T08:28:15.420Z - success: project-importer loaded
+2016-08-23T08:28:15.422Z - success: project-settings loaded
+2016-08-23T08:28:15.423Z - success: ui-kit loaded
+2016-08-23T08:28:15.425Z - success: ui-grid loaded
+2016-08-23T08:28:15.428Z - success: scene loaded
+2016-08-23T08:28:15.429Z - success: sprite-editor loaded
+2016-08-23T08:28:15.432Z - success: timeline loaded
+2016-08-23T08:28:15.432Z - normal: Loading builtin packages
+2016-08-23T08:28:15.434Z - success: asset-db-debugger loaded
+2016-08-23T08:28:15.436Z - success: cocos-package loaded
+2016-08-23T08:28:15.437Z - success: code-editor loaded
+2016-08-23T08:28:15.437Z - success: color-picker loaded
+2016-08-23T08:28:15.439Z - success: console loaded
+2016-08-23T08:28:15.440Z - success: package-manager loaded
+2016-08-23T08:28:15.442Z - success: tester loaded
+2016-08-23T08:28:15.443Z - success: ui-kit-preview-extra loaded
+2016-08-23T08:28:15.444Z - success: ui-kit-preview loaded
+2016-08-23T08:28:15.445Z - success: ui-tree loaded
+2016-08-23T08:28:15.455Z - normal: Initializing project C:\Users\egret\Documents\GitHub\game-engine\creator\legend2
+2016-08-23T08:28:15.474Z - normal: Loading packages
+2016-08-23T08:28:15.479Z - normal: Run Application
+2016-08-23T08:28:15.995Z - success: preview server running at http://localhost:7456
+2016-08-23T08:28:19.193Z - normal: 1.2.1-beta.3
+2016-08-23T08:52:22.170Z - info: shutdown preview server
