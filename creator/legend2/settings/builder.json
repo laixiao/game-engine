@@ -1,8 +1,6 @@
 {
   "excludeScenes": [],
-  "includeSdk": [
-    "anysdk"
-  ],
+  "includeSdk": [],
   "orientation": {
     "landscapeLeft": true,
     "landscapeRight": true,

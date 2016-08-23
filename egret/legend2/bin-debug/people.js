@@ -26,3 +26,4 @@ var people = (function (_super) {
     return people;
 }(egret.Bitmap));
 egret.registerClass(people,'people');
+//# sourceMappingURL=people.js.map

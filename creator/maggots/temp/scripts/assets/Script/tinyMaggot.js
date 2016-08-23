@@ -19,9 +19,9 @@ cc.Class({
 
     // use this for initialization
     onLoad: function onLoad() {
-        var a1 = cc.scaleTo(2, 1, 1 + Math.random() * 0.2);
-        var a2 = cc.scaleTo(2, 1, 0.8 + Math.random() * 0.2);
-        var roBy = cc.rotateBy(1, Math.random() * 4 + 3);
+        var a1 = cc.scaleTo(1.5, 1, 1 + Math.random() * 0.2);
+        var a2 = cc.scaleTo(1.5, 1, 0.8 + Math.random() * 0.2);
+        var roBy = cc.rotateBy(0.5, Math.random() * 4 + 3);
 
         var repeateScale = cc.repeatForever(cc.sequence(a1, a2));
         var repeatRotate = cc.repeatForever(roBy);

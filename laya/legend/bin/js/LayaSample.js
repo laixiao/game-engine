@@ -77,7 +77,7 @@ var GameMain = (function () {
             char.x = Math.random() * (Laya.stage.width + Character.WIDTH * 2);
             char.y = Math.random() * (Laya.stage.height - Character.HEIGHT);
             char.zOrder = char.y;
-            char.setSpeed(Math.floor(Math.random() * 2 + 3));
+            char.setSpeed(Math.floor(Math.random() * 2 + 2));
             //char.setName(i.toString());
             Laya.stage.addChild(char);
             this.characters.push(char);

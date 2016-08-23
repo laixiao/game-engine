@@ -168,19 +168,19 @@ class Main extends egret.DisplayObjectContainer {
             var tr = 360 / this.colAmount * i;
             tBitmap = this.createCharactor("cartoonCharactors/1.png", 46, 50, tr);
             tBitmap.x = tx;
-            tBitmap.y = 50;
+            tBitmap.y = this.stage.stageHeight * 0.5/5;
             tBitmap = this.createCharactor("cartoonCharactors/2.png", 34, 50, tr);
             tBitmap.x = tx;
-            tBitmap.y = 150;
+            tBitmap.y = this.stage.stageHeight * 1.5/5;;
             tBitmap = this.createCharactor("cartoonCharactors/3.png", 42, 50, tr);
             tBitmap.x = tx;
-            tBitmap.y = 250;
+            tBitmap.y = this.stage.stageHeight * 2.5/5;;
             tBitmap = this.createCharactor("cartoonCharactors/4.png", 48, 50, tr);
             tBitmap.x = tx;
-            tBitmap.y = 350;
+            tBitmap.y = this.stage.stageHeight * 3.5/5;;
             tBitmap = this.createCharactor("cartoonCharactors/5.png", 36, 50, tr);
             tBitmap.x = tx;
-            tBitmap.y = 450;
+            tBitmap.y = this.stage.stageHeight * 4.5/5;;
         }
         var timer = new egret.Timer(1, -1);
         timer.addEventListener(egret.TimerEvent.TIMER, this.timerFunc, this);

@@ -47,17 +47,17 @@ class Main extends egret.DisplayObjectContainer {
             this.$invalidateContentBounds();
         }, this);
 
-        var radio = this.pixelRatio();
-        var tClientWidth = document.documentElement.clientWidth * radio;
-        var tClientHeight = document.documentElement.clientHeight * radio;
+        // var radio = this.pixelRatio();
+        // var tClientWidth = document.documentElement.clientWidth * radio;
+        // var tClientHeight = document.documentElement.clientHeight * radio;
         //this.stage.setContentSize(tClientWidth, tClientHeight);
     }
 
-    private pixelRatio() {
-        var ctx = window.document.createElement("canvas").getContext('2d');
-        var backingStore = ctx["backingStorePixelRatio"] || ctx["webkitBackingStorePixelRatio"] || ctx["mozBackingStorePixelRatio"] || ctx["msBackingStorePixelRatio"] || ctx["oBackingStorePixelRatio"] || ctx["backingStorePixelRatio"] || 1;
-        return (window.devicePixelRatio || 1) / backingStore;
-    }
+    // private pixelRatio() {
+    //     var ctx = window.document.createElement("canvas").getContext('2d');
+    //     var backingStore = ctx["backingStorePixelRatio"] || ctx["webkitBackingStorePixelRatio"] || ctx["mozBackingStorePixelRatio"] || ctx["msBackingStorePixelRatio"] || ctx["oBackingStorePixelRatio"] || ctx["backingStorePixelRatio"] || 1;
+    //     return (window.devicePixelRatio || 1) / backingStore;
+    // }
 
     /**
      * 配置文件加载完成,开始预加载preload资源组。
@@ -159,7 +159,7 @@ class Main extends egret.DisplayObjectContainer {
         tMaggot.x = Math.random() * this.stage.stageWidth;
         tMaggot.y = Math.random() * this.stage.stageHeight;
         tMaggot.direction = Math.random() * Math.PI;
-        tMaggot.turningSpeed = Math.random() - 0.8;
+        tMaggot.turningSpeed = Math.random()*3 - 0.8;
         tMaggot.speed = (2 + Math.random() * 2) * 0.2;
         tMaggot.offset = Math.random() * 100;
         return tMaggot;

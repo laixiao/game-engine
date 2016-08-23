@@ -1,14 +1,14 @@
 {
   "androidStudio": false,
-  "buildPath": "C:\\Users\\egret\\Desktop\\analyze\\git\\game-engine\\creator\\maggots\\build",
+  "buildPath": "C:\\Users\\egret\\Documents\\GitHub\\game-engine\\creator\\maggots\\build",
   "debug": false,
   "keystoreAlias": "",
   "keystoreAliasPassword": "",
   "keystorePassword": "",
   "keystorePath": "",
-  "platform": "web-desktop",
-  "previewHeight": 400,
-  "previewWidth": 600,
+  "platform": "android",
+  "previewHeight": "720",
+  "previewWidth": "1280",
   "sourceMaps": false,
   "template": "default",
   "useDebugKeystore": true

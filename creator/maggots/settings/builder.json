@@ -1,15 +1,13 @@
 {
   "excludeScenes": [],
-  "includeSdk": [
-    "anysdk"
-  ],
+  "includeSdk": [],
   "orientation": {
     "landscapeLeft": true,
     "landscapeRight": true,
     "portrait": false,
     "upsideDown": false
   },
-  "packageName": "org.cocos2d.hello_world",
+  "packageName": "org.cocos2d.maggots",
   "startScene": "2d2f792f-a40c-49bb-a189-ed176a246e49",
   "title": "maggots",
   "webOrientation": "auto"

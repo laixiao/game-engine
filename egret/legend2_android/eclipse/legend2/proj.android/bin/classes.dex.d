@@ -13,5 +13,6 @@ c:\Users\egret\Documents\GitHub\game-engine\egret\legend2_android\eclipse\legend
 c:\Users\egret\Documents\GitHub\game-engine\egret\legend2_android\eclipse\legend2\proj.android\bin\classes\org\egret\java\legend2\R$string.class \
 c:\Users\egret\Documents\GitHub\game-engine\egret\legend2_android\eclipse\legend2\proj.android\bin\classes\org\egret\java\legend2\R$style.class \
 c:\Users\egret\Documents\GitHub\game-engine\egret\legend2_android\eclipse\legend2\proj.android\bin\classes\org\egret\java\legend2\R.class \
+c:\Users\egret\Documents\GitHub\game-engine\egret\legend2_android\eclipse\legend2\proj.android\bin\classes\R.java.d \
 c:\Users\egret\Documents\GitHub\game-engine\egret\legend2_android\eclipse\legend2\proj.android\bin\dexedLibs\android-support-v4-65707a3a301fdce52073f9200d3905ce.jar \
 c:\Users\egret\Documents\GitHub\game-engine\egret\legend2_android\eclipse\legend2\proj.android\bin\dexedLibs\egret-7e8c41bddb734e976afe4028d523836b.jar \
