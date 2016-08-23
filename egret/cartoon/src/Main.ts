@@ -127,6 +127,12 @@ class Main extends egret.DisplayObjectContainer {
         loader.load(request);
     }
 
+
+
+
+
+
+
     private onLoadComplete(event) {
         var loader = event.target;
         //获取加载到的纹理对象
@@ -142,18 +148,20 @@ class Main extends egret.DisplayObjectContainer {
     }
 
     private pixelRatio() {
-        var ctx = window.document.createElement("canvas").getContext('2d');
-        var backingStore = ctx["backingStorePixelRatio"] || ctx["webkitBackingStorePixelRatio"] || ctx["mozBackingStorePixelRatio"] || ctx["msBackingStorePixelRatio"] || ctx["oBackingStorePixelRatio"] || ctx["backingStorePixelRatio"] || 1;
-        return (window.devicePixelRatio || 1) / backingStore;
+        //var ctx = window.document.createElement("canvas").getContext('2d');
+        //var backingStore = ctx["backingStorePixelRatio"] || ctx["webkitBackingStorePixelRatio"] || ctx["mozBackingStorePixelRatio"] || ctx["msBackingStorePixelRatio"] || ctx["oBackingStorePixelRatio"] || ctx["backingStorePixelRatio"] || 1;
+        //return (window.devicePixelRatio || 1) / backingStore;
     }
 
     private initCharactors() {
         //console.log("stageWidth:" + this.stage.stageWidth.toString() + "stageHeight:" + this.stage.stageHeight.toString());
-        var radio = this.pixelRatio();
-        var tClientWidth = document.documentElement.clientWidth * radio;
-        var tClientHeight = document.documentElement.clientHeight * radio;
-        this.stage.setContentSize(tClientWidth, tClientHeight);
+        //var radio = this.pixelRatio();
+        //var tClientWidth = document.documentElement.clientWidth * radio;
+        //var tClientHeight = document.documentElement.clientHeight * radio;
+        //this.stage.setContentSize(tClientWidth, tClientHeight);
         //this.stage.setContentSize (document.documentElement.clientWidth * radio,document.documentElement.clientHeight * radio);
+
+        //this.stage.setContentSize(480, 800);
         var tBitmap = null;
         for (var i = 0; i < this.colAmount; ++i) {
             var tx = (this.stage.stageWidth + this.extraSpace * 2) / this.colAmount * i - this.extraSpace;

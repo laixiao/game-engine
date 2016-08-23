@@ -2,8 +2,8 @@
   "version": "1.2.1-beta.3",
   "windows": {
     "main": {
-      "x": 827,
-      "y": 157,
+      "x": 295,
+      "y": 123,
       "width": 1039,
       "height": 822,
       "layout": {
@@ -44,7 +44,7 @@
                   "scene"
                 ],
                 "type": "panel",
-                "width": 553.125
+                "width": 530.953125
               },
               {
                 "active": 0,
@@ -54,13 +54,13 @@
                   "timeline"
                 ],
                 "type": "panel",
-                "width": 553.125
+                "width": 530.953125
               }
             ],
             "height": 694,
             "row": false,
             "type": "dock",
-            "width": 553.125
+            "width": 530.953125
           },
           {
             "active": 0,

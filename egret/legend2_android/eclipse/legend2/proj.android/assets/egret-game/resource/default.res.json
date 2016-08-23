@@ -1,0 +1,190 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,background_jpg,wyd-1_03_png,wyd-1_04_png,wyd-1_05_png,wyd-1_06_png,wyd-1_07_png,wyd-1_08_png,wyd-1_01_png,wyd-1_02_png,yd-2_01_png,yd-2_02_png,yd-2_03_png,yd-2_04_png,yd-2_05_png,yd-2_06_png,yd-2_07_png,yd-2_08_png,yd-3_03_png,yd-3_04_png,yd-3_05_png,yd-3_06_png,yd-3_07_png,yd-3_08_png,yd-3_01_png,yd-3_02_png,yd-6_03_png,yd-6_04_png,yd-6_05_png,yd-6_06_png,yd-6_07_png,yd-6_08_png,yd-6_01_png,yd-6_02_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "bg_jpg",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "egret_icon_png",
+			"type": "image",
+			"url": "assets/egret_icon.png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "background_jpg",
+			"type": "image",
+			"url": "assets/background.jpg"
+		},
+		{
+			"name": "wyd-1_03_png",
+			"type": "image",
+			"url": "assets/Bitmap1/wyd-1_03.png"
+		},
+		{
+			"name": "wyd-1_04_png",
+			"type": "image",
+			"url": "assets/Bitmap1/wyd-1_04.png"
+		},
+		{
+			"name": "wyd-1_05_png",
+			"type": "image",
+			"url": "assets/Bitmap1/wyd-1_05.png"
+		},
+		{
+			"name": "wyd-1_06_png",
+			"type": "image",
+			"url": "assets/Bitmap1/wyd-1_06.png"
+		},
+		{
+			"name": "wyd-1_07_png",
+			"type": "image",
+			"url": "assets/Bitmap1/wyd-1_07.png"
+		},
+		{
+			"name": "wyd-1_08_png",
+			"type": "image",
+			"url": "assets/Bitmap1/wyd-1_08.png"
+		},
+		{
+			"name": "wyd-1_01_png",
+			"type": "image",
+			"url": "assets/Bitmap1/wyd-1_01.png"
+		},
+		{
+			"name": "wyd-1_02_png",
+			"type": "image",
+			"url": "assets/Bitmap1/wyd-1_02.png"
+		},
+		{
+			"name": "yd-2_01_png",
+			"type": "image",
+			"url": "assets/bitmap2/yd-2_01.png"
+		},
+		{
+			"name": "yd-2_02_png",
+			"type": "image",
+			"url": "assets/bitmap2/yd-2_02.png"
+		},
+		{
+			"name": "yd-2_03_png",
+			"type": "image",
+			"url": "assets/bitmap2/yd-2_03.png"
+		},
+		{
+			"name": "yd-2_04_png",
+			"type": "image",
+			"url": "assets/bitmap2/yd-2_04.png"
+		},
+		{
+			"name": "yd-2_05_png",
+			"type": "image",
+			"url": "assets/bitmap2/yd-2_05.png"
+		},
+		{
+			"name": "yd-2_06_png",
+			"type": "image",
+			"url": "assets/bitmap2/yd-2_06.png"
+		},
+		{
+			"name": "yd-2_07_png",
+			"type": "image",
+			"url": "assets/bitmap2/yd-2_07.png"
+		},
+		{
+			"name": "yd-2_08_png",
+			"type": "image",
+			"url": "assets/bitmap2/yd-2_08.png"
+		},
+		{
+			"name": "yd-3_03_png",
+			"type": "image",
+			"url": "assets/bitmap3/yd-3_03.png"
+		},
+		{
+			"name": "yd-3_04_png",
+			"type": "image",
+			"url": "assets/bitmap3/yd-3_04.png"
+		},
+		{
+			"name": "yd-3_05_png",
+			"type": "image",
+			"url": "assets/bitmap3/yd-3_05.png"
+		},
+		{
+			"name": "yd-3_06_png",
+			"type": "image",
+			"url": "assets/bitmap3/yd-3_06.png"
+		},
+		{
+			"name": "yd-3_07_png",
+			"type": "image",
+			"url": "assets/bitmap3/yd-3_07.png"
+		},
+		{
+			"name": "yd-3_08_png",
+			"type": "image",
+			"url": "assets/bitmap3/yd-3_08.png"
+		},
+		{
+			"name": "yd-3_01_png",
+			"type": "image",
+			"url": "assets/bitmap3/yd-3_01.png"
+		},
+		{
+			"name": "yd-3_02_png",
+			"type": "image",
+			"url": "assets/bitmap3/yd-3_02.png"
+		},
+		{
+			"name": "yd-6_03_png",
+			"type": "image",
+			"url": "assets/Bitmap4/yd-6_03.png"
+		},
+		{
+			"name": "yd-6_04_png",
+			"type": "image",
+			"url": "assets/Bitmap4/yd-6_04.png"
+		},
+		{
+			"name": "yd-6_05_png",
+			"type": "image",
+			"url": "assets/Bitmap4/yd-6_05.png"
+		},
+		{
+			"name": "yd-6_06_png",
+			"type": "image",
+			"url": "assets/Bitmap4/yd-6_06.png"
+		},
+		{
+			"name": "yd-6_07_png",
+			"type": "image",
+			"url": "assets/Bitmap4/yd-6_07.png"
+		},
+		{
+			"name": "yd-6_08_png",
+			"type": "image",
+			"url": "assets/Bitmap4/yd-6_08.png"
+		},
+		{
+			"name": "yd-6_01_png",
+			"type": "image",
+			"url": "assets/Bitmap4/yd-6_01.png"
+		},
+		{
+			"name": "yd-6_02_png",
+			"type": "image",
+			"url": "assets/Bitmap4/yd-6_02.png"
+		}
+	]
+}

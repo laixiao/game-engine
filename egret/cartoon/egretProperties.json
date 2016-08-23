@@ -1,6 +1,7 @@
 {
 	"native": {
-		"path_ignore": []
+		"path_ignore": [],
+		"android_path": "../cartoonAndroid"
 	},
 	"publish": {
 		"web": 0,
