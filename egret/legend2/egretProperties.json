@@ -1,7 +1,7 @@
 {
 	"native": {
 		"path_ignore": [],
-		"android_path": "../legend2_android/eclipse/legend2"
+		"android_path": "../legend2Android"
 	},
 	"publish": {
 		"web": 0,

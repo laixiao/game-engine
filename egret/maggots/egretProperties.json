@@ -1,7 +1,7 @@
 {
 	"native": {
 		"path_ignore": [],
-		"android_path": "../maggots_android/eclipse/maggots"
+		"android_path": "../maggotsAndroid"
 	},
 	"publish": {
 		"web": 0,

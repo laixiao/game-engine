@@ -2,8 +2,7 @@
 
 	"实践是检验真理的唯一标准"
 前言：
-	-感觉现在的游戏引擎都在说自家的是业界第一，然而却没有确切的证据证明自己，为了得到
-一个有效的真实数据，我特意做了一个性能对比。主要是针对国内市场上主流的H5游戏引擎，能入我法眼的无非就是[cocos creator](http://www.cocos.com/download/creator/)和[egret](http://developer.egret.com/cn/)，这两家游戏引擎，在技术、文档、服务等多方面都是比较成
+	-游戏引擎性能测试。为了得到一个有效的真实数据，我特意做了一个性能对比。主要是针对国内市场上主流的H5游戏引擎，能入我法眼的无非就是[cocos creator](http://www.cocos.com/download/creator/)和[egret](http://developer.egret.com/cn/)，这两家游戏引擎，在技术、文档、服务等多方面都是比较成
 熟的，[laya](http://ldc.layabox.com/)在H5平台的性能也表现得非常出色，但是感觉在某些方面还不太成熟，我暂且也把它拿
 来对比一下。lufylegend等其它引擎我就不考虑了，至于为什么我就不多说了，可能是我要求比较
 高吧-_-!。

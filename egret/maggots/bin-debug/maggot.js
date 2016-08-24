@@ -65,4 +65,3 @@ var maggot = (function () {
     return maggot;
 }());
 egret.registerClass(maggot,'maggot');
-//# sourceMappingURL=maggot.js.map
