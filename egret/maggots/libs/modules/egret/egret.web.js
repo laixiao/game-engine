@@ -3569,7 +3569,6 @@ var egret;
                 Html5Capatibility._canUseBlob = false;
                 var checkAudioType;
                 var audioType = Html5Capatibility._audioType;
-                var canUseWebAudio = window["AudioContext"] || window["webkitAudioContext"] || window["mozAudioContext"];
                 if (audioType == 1 || audioType == 2 || audioType == 3) {
                     checkAudioType = false;
                     Html5Capatibility.setAudioType(audioType);
@@ -3583,16 +3582,9 @@ var egret;
                     egret.Capabilities.$os = "Windows Phone";
                 }
                 else if (ua.indexOf("android") >= 0) {
+                    Html5Capatibility._System_OS = SystemOSType.ADNROID;
                     egret.Capabilities.$os = "Android";
                     Html5Capatibility._System_OS = SystemOSType.ADNROID;
-                    if (canUseWebAudio) {
-                        egret.$warn("WEB_AUDIO");
-                        Html5Capatibility.setAudioType(AudioType.WEB_AUDIO);
-                    }
-                    else {
-                        egret.$warn("HTML5_AUDIO");
-                        Html5Capatibility.setAudioType(AudioType.HTML5_AUDIO);
-                    }
                     if (window.hasOwnProperty("QZAppExternal") && ua.indexOf("qzone") >= 0) {
                         Html5Capatibility.setAudioType(AudioType.QQ_AUDIO);
                         var bases = document.getElementsByTagName('base');
@@ -3615,9 +3607,7 @@ var egret;
                     Html5Capatibility._System_OS = SystemOSType.IOS;
                     if (Html5Capatibility.getIOSVersion() >= 7) {
                         Html5Capatibility._canUseBlob = true;
-                        if (canUseWebAudio) {
-                            Html5Capatibility.setAudioType(AudioType.WEB_AUDIO);
-                        }
+                        Html5Capatibility.setAudioType(AudioType.WEB_AUDIO);
                     }
                 }
                 else {
@@ -3631,6 +3621,10 @@ var egret;
                 var winURL = window["URL"] || window["webkitURL"];
                 if (!winURL) {
                     Html5Capatibility._canUseBlob = false;
+                }
+                var canUseWebAudio = window["AudioContext"] || window["webkitAudioContext"] || window["mozAudioContext"];
+                if (!canUseWebAudio && Html5Capatibility._audioType == AudioType.WEB_AUDIO) {
+                    Html5Capatibility.setAudioType(AudioType.HTML5_AUDIO);
                 }
                 egret.Sound = Html5Capatibility._AudioClass;
             };
